@@ -1,4 +1,4 @@
-// create a webserver
+// Create web server
 // listen on port 3000
 // 4 routes
 // 1. GET /comments
